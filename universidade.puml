@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+actor estudante as est 
+actor professor as prof 
+actor cordenador as cord 
+actor "funcionario da cantina" as func 
+actor "funcionario da limpeza" as funl 
+actor segurança as seg 
